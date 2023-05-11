@@ -1,0 +1,17 @@
+
+
+
+html div panier qui est en dessous du produit 3 balise img 
+css en display flex ou texte 
+
+si je clique sur img1 alors elle apparait dans div panier et si je clique sur img 2 elle apparrait dans panier sinon si je clique sur 
+img3 elle apparait dans div panier si je re clique sur img 1/ 2 / 3 elle ajoute +1 si je double clique 1,2,3 ajoute 2 fois le produit
+dans div panier 
+
+
+
+si je clique sur le produit 1 alors l'image plus petite  + texte + prix + s'ajouterons au panier 
+les produits s'alignerons aux autres produits danss le panier si 
+il n'y a pas d'autres produits alors l'image sera en haut a gauche dans le panier si il y a plusieurs produit ils seront en colonne 
+de gauche a droite si il y a 2 fois le même produit alors un 2 s'ajoutera a coter du produit pour dire qu'il apparait deux fois dans le 
+même panier et pour plusieurs produits il y auras le prix total et + pourajouter un produit ou moins pour enlenver un produit
